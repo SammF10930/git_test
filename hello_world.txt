@@ -1,0 +1,1 @@
+Hello world, this doccument was created in a Linux Terminal, using Git.
